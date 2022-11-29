@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robertsonmorales
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning React.js Library
-- Check my personal portfolio, <a href="https://robertsonmorales.netlify.app" target="_blank">here.</a>
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning MERN stack
+- Check my personal portfolio, <a href="https://robertsonmorales.herokuapp.com" target="_blank">here.</a>
 
 <!---
 robertsonmorales/robertsonmorales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
