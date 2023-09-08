@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a software engineer with a passion for building innovative products. I am proficient in a variety of programming languages and technologies, and I am always eager to learn new things. I am also a strong communicator and team player.
+I am a web developer and designer with a passion for building innovative products. I am proficient in a variety of programming languages and technologies, and I am always eager to learn new things. I am also a strong communicator and team player.
 
 ## Skills
 
